@@ -1,4 +1,3 @@
-# Laravel Sevice Container
 # This lesson has shown you the benefits that OOP brings to a project and to a programmer.
 # You have learned how to :
 1. Keep your analysis in the business world, using business words, with encapsulation of related strings and numbers into classes
